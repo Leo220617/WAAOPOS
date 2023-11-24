@@ -177,6 +177,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Clientes.cs" />
     <Compile Include="Models\ModelCliente\BitacoraErrores.cs" />
     <Compile Include="Models\ModelCliente\BitacoraUso.cs" />
     <Compile Include="Models\ModelCliente\ConexionSAP.cs" />

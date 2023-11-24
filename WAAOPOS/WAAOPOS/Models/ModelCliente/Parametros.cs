@@ -15,5 +15,7 @@ namespace WAAOPOS.Models.ModelCliente
         public string SQLClientes { get; set; }
 
         public int SerieOV { get; set; }
+        public int SerieCliente { get; set; }
+        public string CampoTipoIdentificacion { get; set; }
     }
 }

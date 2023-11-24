@@ -93,3 +93,4 @@ C:\Users\larce\Documents\GitHub\WAAOPOS\WAAOPOS\WAAOPOS\obj\Release\WAAOPOS.cspr
 C:\Users\larce\Documents\GitHub\WAAOPOS\WAAOPOS\WAAOPOS\obj\Release\WAAOPOS.csproj.CopyComplete
 C:\Users\larce\Documents\GitHub\WAAOPOS\WAAOPOS\WAAOPOS\obj\Release\WAAOPOS.dll
 C:\Users\larce\Documents\GitHub\WAAOPOS\WAAOPOS\WAAOPOS\obj\Release\WAAOPOS.pdb
+C:\Users\larce\Documents\GitHub\WAAOPOS\WAAOPOS\WAAOPOS\obj\Release\WAAOPOS.csprojAssemblyReference.cache
